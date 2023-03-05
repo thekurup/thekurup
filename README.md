@@ -6,9 +6,6 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
-<p class="big">
-<br>
-</p>
 
 <p align="left"> <a href="https://twitter.com/arjunkurup_" target="blank"><img src="https://img.shields.io/twitter/follow/arjunkurup_?logo=twitter&style=for-the-badge" alt="arjunkurup_" /></a> </p>
 
