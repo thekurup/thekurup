@@ -1,6 +1,9 @@
 [![MasterHead](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑨𝒓𝒋𝒖𝒏 𝑲𝒖𝒓𝒖𝒑</h1>
 <h3 align="center">DataScience enthusiast & content creator on a mission to simplify complex concepts & make them accessible to everyone. Unleashing the power of data threw my Github Repo</h3>
+<p class="big">
+<br>
+</p>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
 <p class="big">
