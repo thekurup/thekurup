@@ -3,7 +3,7 @@
 <h3 align="center">DataScience enthusiast & content creator on a mission to simplify complex concepts & make them accessible to everyone. Unleashing the power of data threw my Github Repo</h3>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
-<p align="left"> </p>
+<br>
 
 <p align="left"> <a href="https://twitter.com/arjunkurup_" target="blank"><img src="https://img.shields.io/twitter/follow/arjunkurup_?logo=twitter&style=for-the-badge" alt="arjunkurup_" /></a> </p>
 
