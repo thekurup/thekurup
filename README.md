@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/10/00-Gif-Processing-a-list-of-files-in-node.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑨𝒓𝒋𝒖𝒏 𝑲𝒖𝒓𝒖𝒑</h1>
-<h3 align="center">I'm a versatile MERN Stack developer, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
+<h3 align="center">I'm a Self Taught  MERN Stack developer, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
 <p class="big">
 <br>
 </p>
@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
 
 - 📝 I regularly write articles in Medium 🖋 [https://medium.com/@arjunkurup](https://medium.com/@arjunkurup) 
-  <br> and Post Work On Machine Learning Community in LinkedIn [https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/](https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/)
+  <br> and Post it on Linkdin LinkedIn [https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/](https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/)
 
 - 💬 Ask me about **JavaScript🧠**
 
