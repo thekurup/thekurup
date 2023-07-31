@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/mern)](https://rishavchanda.io)
+[![MasterHead](https://wallpapercave.com/dwp1x/wp8903914.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑨𝒓𝒋𝒖𝒏 𝑲𝒖𝒓𝒖𝒑</h1>
 <h3 align="center">I'm a versatile MERN Stack developer, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
 <p class="big">
