@@ -16,7 +16,7 @@
 - 📝 I regularly write articles in Medium 🖋 [https://medium.com/@arjunkurup](https://medium.com/@arjunkurup) 
   <br> and Post Work On Machine Learning Community in LinkedIn [https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/](https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/)
 
-- 💬 Ask me about **ML🧠**
+- 💬 Ask me about **JavaScript🧠**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arjun-kurup/**
 
@@ -55,7 +55,7 @@
 <a href="https://linkedin.com/in/arjun-kurup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/arjun-kurup/" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Analytics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thekurup&show_icons=true&locale=en&layout=compact" alt="thekurup" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thekurup&show_icons=true&locale=en" alt="thekurup" /></p>
