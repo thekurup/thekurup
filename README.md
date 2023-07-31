@@ -44,8 +44,8 @@
 - 🐤 [Twitter](https://twitter.com/arjunkurup_): Where I share threads on data 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arjun-kurup/): That I use to connect with professionals.
 - 📝 [Medium](https://medium.com/@arjunkurup): Where I write everything related to data.
-- 👩‍💻 [Portfolio Website](https://shreyapurohit.now.sh): That is currently a WIP
-- 🚀 [Gumroad](https://shry.gumroad.com/): Where I curate, build & share digital products.
+- 👩‍💻 [Portfolio Website](arjunkurup.com): That is currently a WIP
+- 🚀 [Gumroad](): Where I curate, build & share digital products.
 
 
 
