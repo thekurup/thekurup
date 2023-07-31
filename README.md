@@ -24,22 +24,17 @@
 
 
 #### 👩‍💻 Tech Stack
-_ - Python ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
-| <br>- JavaScript ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
- |<br> - React.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/050e0d66-5485-4e60-a5c6-ec741b341bbe)<br>
-| <br> - Express.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/2844b7b4-8132-4d00-a889-a0cdd082f37d)<br>
- |-  TypeScript ![image](https://github.com/thekurup/thekurup/assets/91071122/226290cc-163f-406c-b917-534db5db73cc)<br>
- | - Node.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/31fe4f99-a816-4f56-9235-a394e537bc44)<br>
- | - Django ![image](https://github.com/thekurup/thekurup/assets/91071122/09da9341-093d-46b0-ab0d-e2d8becc6487)<br>
- | - Machine Learning ![image](https://github.com/thekurup/thekurup/assets/91071122/830675b8-9c62-41e5-9159-a620a1b9cf47)<br>
- | - MongoDB ![image](https://github.com/thekurup/thekurup/assets/91071122/67a0648c-4d3f-4c37-b5ba-b8c1a45caefb)<br>
- | - OpenSource Contibution ![image](https://github.com/thekurup/thekurup/assets/91071122/1798b5fb-9081-4fd3-b072-94fb9327f226)<br>
-|- PostgresSQL ![image](https://github.com/thekurup/thekurup/assets/91071122/e1e13d66-d0df-45ca-8833-f4f4fa0d218f)_<br>
- - 🔍 **Data analysis:** NumPy, Pandas, SciPy, Time series analysis
- - 📊 **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, Geoplotlib, GGPlot
- - ✅ **Skills:** Stats (Hypothesis testing, A/B testing), NLP
- - 🐻 **Interests:** Data Analysis, Machine learning, Computer Vision and Web Backend Development
-
+_  Python ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
+ <br> JavaScript ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
+ <br>  React.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/050e0d66-5485-4e60-a5c6-ec741b341bbe)<br>
+ <br> Express.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/2844b7b4-8132-4d00-a889-a0cdd082f37d)<br>
+ <br> TypeScript ![image](https://github.com/thekurup/thekurup/assets/91071122/226290cc-163f-406c-b917-534db5db73cc)<br>
+ <br> Node.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/31fe4f99-a816-4f56-9235-a394e537bc44)<br>
+ <br> Django ![image](https://github.com/thekurup/thekurup/assets/91071122/09da9341-093d-46b0-ab0d-e2d8becc6487)<br>
+ <br> Machine Learning ![image](https://github.com/thekurup/thekurup/assets/91071122/830675b8-9c62-41e5-9159-a620a1b9cf47)<br>
+ <br> MongoDB ![image](https://github.com/thekurup/thekurup/assets/91071122/67a0648c-4d3f-4c37-b5ba-b8c1a45caefb)<br>
+ <br> OpenSource Contibution ![image](https://github.com/thekurup/thekurup/assets/91071122/1798b5fb-9081-4fd3-b072-94fb9327f226)<br>
+<br> PostgresSQL ![image](https://github.com/thekurup/thekurup/assets/91071122/e1e13d66-d0df-45ca-8833-f4f4fa0d218f)_<br>
 
 #### 🌍 Find me on web
 - 🐤 [Twitter](https://twitter.com/arjunkurup_): Where I share threads on data 
