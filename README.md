@@ -1,4 +1,4 @@
-![image](https://github.com/thekurup/thekurup/assets/91071122/76a86df4-6802-431d-baeb-07d5d91474bc)[![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/10/00-Gif-Processing-a-list-of-files-in-node.gif)](https://rishavchanda.io)
+[![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/10/00-Gif-Processing-a-list-of-files-in-node.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑨𝒓𝒋𝒖𝒏 𝑲𝒖𝒓𝒖𝒑</h1>
 <h3 align="center">I'm a versatile MERN Stack developer, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
 <p class="big">
