@@ -29,7 +29,7 @@
  <br> ● React.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/050e0d66-5485-4e60-a5c6-ec741b341bbe)<br>
  <br> ● Express.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/2844b7b4-8132-4d00-a889-a0cdd082f37d)<br>
  <br> ● TypeScript  ![image](https://github.com/thekurup/thekurup/assets/91071122/226290cc-163f-406c-b917-534db5db73cc)<br>
- <br> ●Node.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/31fe4f99-a816-4f56-9235-a394e537bc44)<br>
+ <br> ● Node.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/31fe4f99-a816-4f56-9235-a394e537bc44)<br>
  <br> ● Django  ![image](https://github.com/thekurup/thekurup/assets/91071122/09da9341-093d-46b0-ab0d-e2d8becc6487)<br>
  <br> ● Machine Learning  ![image](https://github.com/thekurup/thekurup/assets/91071122/830675b8-9c62-41e5-9159-a620a1b9cf47)<br>
  <br> ● MongoDB  ![image](https://github.com/thekurup/thekurup/assets/91071122/67a0648c-4d3f-4c37-b5ba-b8c1a45caefb)<br>
