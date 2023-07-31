@@ -24,7 +24,7 @@
 
 
 #### 👩‍💻 Tech Stack
-_Python ![image](https://github.com/thekurup/thekurup/assets/91071122/875863bf-b030-4ad5-b5e5-d76525041c42)
+_Python ![image](https://github.com/thekurup/thekurup/assets/91071122/e47202a0-1e36-40e8-bbfc-d97e370716ef)
 | JavaScript ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)
  | React.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/5317ea2a-db44-40cb-bef4-1a25def1d4a7)
 | Express.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/2844b7b4-8132-4d00-a889-a0cdd082f37d)
