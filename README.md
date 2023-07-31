@@ -30,7 +30,7 @@ _Python ![image](https://github.com/thekurup/thekurup/assets/91071122/b70e0aa5-5
 | Express.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/2844b7b4-8132-4d00-a889-a0cdd082f37d)
   | TypeScript ![image](https://github.com/thekurup/thekurup/assets/91071122/226290cc-163f-406c-b917-534db5db73cc)
  | Node.JS ![image](https://github.com/thekurup/thekurup/assets/91071122/31fe4f99-a816-4f56-9235-a394e537bc44)
- | MongoDB ![image](https://github.com/thekurup/thekurup/assets/91071122/8fffae5b-3935-4457-a27e-5c44ab59b183) _
+ | MongoDB 🍃 _
  - 🔍 **Data analysis:** NumPy, Pandas, SciPy, Time series analysis
  - 📊 **Data visualization:** Matplotlib, Seaborn, Plotly, Bokeh, Geoplotlib, GGPlot
  - ✅ **Skills:** Stats (Hypothesis testing, A/B testing), NLP
