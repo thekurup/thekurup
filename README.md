@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.magmalabs.io/wp-content/uploads/2022/10/00-Gif-Processing-a-list-of-files-in-node.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 𝑨𝒓𝒋𝒖𝒏 𝑲𝒖𝒓𝒖𝒑</h1>
-<h3 align="center">I'm a Self Taught  MERN Stack developer, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
+<h3 align="center">(𝐒𝐃𝐄) 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐣𝐚𝐧𝐠𝐨 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, crafting seamless web experiences. Transforming ideas into robust apps, I thrive on innovation, code craftsmanship, and collaborative success.</h3>
 <p class="big">
 <br>
 </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjunkurup_" target="blank"><img src="https://img.shields.io/twitter/follow/arjunkurup_?logo=twitter&style=for-the-badge" alt="arjunkurup_" /></a> </p>
 
-- 🌱 I’m currently learning **TYPESCRIPT**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
 
