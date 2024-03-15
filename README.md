@@ -27,7 +27,7 @@
  ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
  <br> ● JavaScript  ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
  <br> ● React.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/050e0d66-5485-4e60-a5c6-ec741b341bbe)<br>
- <br> ● Node.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/31fe4f99-a816-4f56-9235-a394e537bc44)<br>
+ <br> ● 𝐃𝐚𝐫𝐭  ![image](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)<br>
  <br> ● Django  ![image](https://github.com/thekurup/thekurup/assets/91071122/09da9341-093d-46b0-ab0d-e2d8becc6487)<br>
  <br> ● Machine Learning  ![image](https://github.com/thekurup/thekurup/assets/91071122/830675b8-9c62-41e5-9159-a620a1b9cf47)<br>
  <br> ● OpenSource Contibution  ![image](https://github.com/thekurup/thekurup/assets/91071122/1798b5fb-9081-4fd3-b072-94fb9327f226)<br>
