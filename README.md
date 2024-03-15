@@ -9,14 +9,14 @@
 
 <p align="left"> <a href="https://twitter.com/arjunkurup_" target="blank"><img src="https://img.shields.io/twitter/follow/arjunkurup_?logo=twitter&style=for-the-badge" alt="arjunkurup_" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **𝐃𝐚𝐫𝐭**
 
 - 👨‍💻 All of my projects are available at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
 
 - 📝 I regularly write articles in Medium 🖋 [https://medium.com/@arjunkurup](https://medium.com/@arjunkurup) 
   <br> and Post it on Linkdin LinkedIn [https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/](https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/)
 
-- 💬 Ask me about **JavaScript🧠**
+- 💬 Ask me about **Flutter 🧠**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arjun-kurup/**
 
