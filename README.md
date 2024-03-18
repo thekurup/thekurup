@@ -24,7 +24,8 @@
 
 
 #### 👩‍💻 Tech Stack : 
- ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
+ ● 𝐃𝐚𝐫𝐭  ![image](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)<br>
+ <br> ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
  <br> ● JavaScript  ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
  <br> ● React.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/050e0d66-5485-4e60-a5c6-ec741b341bbe)<br>
  <br> ● 𝐃𝐚𝐫𝐭  ![image](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)<br>
