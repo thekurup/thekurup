@@ -29,14 +29,14 @@
  <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <!-- <br>• 𝐑𝐄𝐀𝐂𝐓.𝐉𝐒 <img align="center"  src="icons/react.gif" alt="python" height="40" width="40" /> <br> -->
  <br>• 𝐃𝐉𝐀𝐍𝐆𝐎 <img align="center"  src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" alt="python" height="40" width="40" /> <br>
- <br>• 𝐒𝐰𝐢𝐟𝐭 <img align="center"  src="icons/swift.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐒𝐰𝐢𝐟𝐭 <img align="center"  src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  
- <br>• 𝐅𝐢𝐫𝐞𝐁𝐚𝐬𝐞 <img align="center"  src="icons/firebase.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐅𝐢𝐫𝐞𝐁𝐚𝐬𝐞 <img align="center"  src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <!-- <br>• 𝐌𝐨𝐧𝐠𝐨𝐃𝐁<img align="center"  src="icons/mongo.png" alt="python" height="40" width="40" /> <br> -->
- <br>• 𝐌𝐀𝐂𝐇𝐈𝐍𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 <img align="center"  src="icons/machine.png" alt="python" height="40" width="40" /> <br>
- <br>• 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬𝐒𝐐𝐋 <img align="center"  src="icons/postgres.png" alt="python" height="40" width="40" /> <br>
- <br>• 𝐇𝐓𝐌𝐋 <img align="center"  src="icons/html.png" alt="python" height="40" width="40" /> <br>
- <br>• 𝐂𝐒𝐒 <img align="center"  src="icons/css.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐌𝐀𝐂𝐇𝐈𝐍𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 <img align="center"  src="https://img.icons8.com/?size=100&id=fTkqveCX0blI&format=png&color=000000" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬𝐒𝐐𝐋 <img align="center"  src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐇𝐓𝐌𝐋 <img align="center"  src="https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐂𝐒𝐒 <img align="center"  src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="python" height="40" width="40" /> <br>
 
 #### 🌍 Find me on web
 - 🐤 [Twitter](https://twitter.com/arjunkurup_): Where I share threads on data 
