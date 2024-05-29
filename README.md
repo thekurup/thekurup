@@ -26,9 +26,9 @@
 #### 👩‍💻 Tech Stack : 
  ● Dart <img align="center"  src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png" alt="python" height="40" width="40" /> <br>
  <br>• Python <img align="center"  src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="python" height="40" width="40" /> <br>
- <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="icons/Javascript.gif" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <!-- <br>• 𝐑𝐄𝐀𝐂𝐓.𝐉𝐒 <img align="center"  src="icons/react.gif" alt="python" height="40" width="40" /> <br> -->
- <br>• 𝐃𝐉𝐀𝐍𝐆𝐎 <img align="center"  src="icons/djago.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐃𝐉𝐀𝐍𝐆𝐎 <img align="center"  src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <br>• 𝐒𝐰𝐢𝐟𝐭 <img align="center"  src="icons/swift.png" alt="python" height="40" width="40" /> <br>
  
  <br>• 𝐅𝐢𝐫𝐞𝐁𝐚𝐬𝐞 <img align="center"  src="icons/firebase.png" alt="python" height="40" width="40" /> <br>
