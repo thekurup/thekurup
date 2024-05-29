@@ -24,19 +24,19 @@
 
 
 #### 👩‍💻 Tech Stack : 
- ● 𝐃𝐚𝐫𝐭  ![image](https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png)<br>
- <br> ● Python  ![image](https://github.com/thekurup/thekurup/assets/91071122/033245a7-a4cb-414a-8af5-94748e6150f6)<br>
- <br> ● JavaScript  ![image](https://github.com/thekurup/thekurup/assets/91071122/e55f7d7e-c8e1-4e11-be62-b68e39dfe3c4)<br>
- <br> ● React.JS  ![image](https://github.com/thekurup/thekurup/assets/91071122/050e0d66-5485-4e60-a5c6-ec741b341bbe)<br>
- <br> ● 𝐒𝐰𝐢𝐟𝐭  ![image](![image](https://github.com/thekurup/thekurup/assets/91071122/a99de8c4-2c8a-4b6c-bd06-229bf074774e)<br>
- <br> ● Django  ![image](https://github.com/thekurup/thekurup/assets/91071122/09da9341-093d-46b0-ab0d-e2d8becc6487)<br>
- <br> ● Machine Learning  ![image](https://github.com/thekurup/thekurup/assets/91071122/830675b8-9c62-41e5-9159-a620a1b9cf47)<br>
- <br> ● OpenSource Contibution  ![image](https://github.com/thekurup/thekurup/assets/91071122/1798b5fb-9081-4fd3-b072-94fb9327f226)<br>
-<br> ● PostgresSQL  ![image](https://github.com/thekurup/thekurup/assets/91071122/e1e13d66-d0df-45ca-8833-f4f4fa0d218f)<br>
-<br> ● HTML  ![image](https://github.com/thekurup/thekurup/assets/91071122/2387339c-1f30-4473-ac7e-d23dbd55e349)<br>
-<br> ● CSS  ![image](https://github.com/thekurup/thekurup/assets/91071122/ee4e0597-a3b9-46ab-87be-953570a6f907)<br>
-<br> ● Docker  ![image](https://github.com/thekurup/thekurup/assets/91071122/0a8074d7-bbac-4246-95d6-e7a9955ab842)<br>
-<Br> ● AWS Hosting  ![image](https://github.com/thekurup/thekurup/assets/91071122/fd8cf33d-53fd-43ed-bbff-90fa6816c6ca)<br>
+ ● Dart <img align="center"  src="icons/dart.png" alt="python" height="40" width="40" /> <br>
+ <br>• Python <img align="center"  src="icons/python.gif" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="icons/Javascript.gif" alt="python" height="40" width="40" /> <br>
+ <!-- <br>• 𝐑𝐄𝐀𝐂𝐓.𝐉𝐒 <img align="center"  src="icons/react.gif" alt="python" height="40" width="40" /> <br> -->
+ <br>• 𝐃𝐉𝐀𝐍𝐆𝐎 <img align="center"  src="icons/djago.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐒𝐰𝐢𝐟𝐭 <img align="center"  src="icons/swift.png" alt="python" height="40" width="40" /> <br>
+ 
+ <br>• 𝐅𝐢𝐫𝐞𝐁𝐚𝐬𝐞 <img align="center"  src="icons/firebase.png" alt="python" height="40" width="40" /> <br>
+ <!-- <br>• 𝐌𝐨𝐧𝐠𝐨𝐃𝐁<img align="center"  src="icons/mongo.png" alt="python" height="40" width="40" /> <br> -->
+ <br>• 𝐌𝐀𝐂𝐇𝐈𝐍𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 <img align="center"  src="icons/machine.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬𝐒𝐐𝐋 <img align="center"  src="icons/postgres.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐇𝐓𝐌𝐋 <img align="center"  src="icons/html.png" alt="python" height="40" width="40" /> <br>
+ <br>• 𝐂𝐒𝐒 <img align="center"  src="icons/css.png" alt="python" height="40" width="40" /> <br>
 
 #### 🌍 Find me on web
 - 🐤 [Twitter](https://twitter.com/arjunkurup_): Where I share threads on data 
