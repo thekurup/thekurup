@@ -25,7 +25,8 @@
 
 #### 👩‍💻 Tech Stack : 
  ● Dart <img align="center"  src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png" alt="python" height="40" width="40" /> <br>
- <br>• Python <img align="center"  src="icons/python.gif" alt="python" height="40" width="40" /> <br>
+ <br>• Python <img align="center"  src="(https://github.com/thekurup/thekurup/assets/91071122/edc63cde-a441-4ecd-84b7-0ed8885abf52)
+" alt="python" height="40" width="40" /> <br>
  <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="icons/Javascript.gif" alt="python" height="40" width="40" /> <br>
  <!-- <br>• 𝐑𝐄𝐀𝐂𝐓.𝐉𝐒 <img align="center"  src="icons/react.gif" alt="python" height="40" width="40" /> <br> -->
  <br>• 𝐃𝐉𝐀𝐍𝐆𝐎 <img align="center"  src="icons/djago.png" alt="python" height="40" width="40" /> <br>
