@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjunkurup_" target="blank"><img src="https://img.shields.io/twitter/follow/arjunkurup_?logo=twitter&style=for-the-badge" alt="arjunkurup_" /></a> </p>
 
-- 🌱 I’m currently learning **𝐃𝐚𝐫𝐭**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
 
@@ -24,7 +24,8 @@
 
 
 #### 👩‍💻 Tech Stack : 
- ● Dart <img align="center"  src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png" alt="python" height="40" width="40" /> <br>
+ ● 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 <img align="center"  src="![image](https://github.com/thekurup/thekurup/assets/91071122/19da70d3-4f19-48d2-ba9f-090cdf48d675)
+" alt="Flutter" height="40" width="40" /> <br>
  <br>• Python <img align="center"  src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <!-- <br>• 𝐑𝐄𝐀𝐂𝐓.𝐉𝐒 <img align="center"  src="icons/react.gif" alt="python" height="40" width="40" /> <br> -->
