@@ -24,7 +24,7 @@
 
 
 #### 👩‍💻 Tech Stack : 
- ● 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 <img align="center"  src="https://icons8.com/icon/7I3BjCqe9rjG/flutter" alt="Flutter" height="40" width="40" /> <br>
+ ● 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 <img align="center"  src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" height="40" width="40" /> <br>
  <br>• Python <img align="center"  src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <!-- <br>• 𝐑𝐄𝐀𝐂𝐓.𝐉𝐒 <img align="center"  src="icons/react.gif" alt="python" height="40" width="40" /> <br> -->
