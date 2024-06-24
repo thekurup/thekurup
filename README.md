@@ -24,7 +24,7 @@
 
 
 #### 👩‍💻 Tech Stack : 
- ● 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 <img align="center"  src="https://github.com/thekurup/thekurup/assets/91071122/7322afb7-173b-4f12-b14b-3a71a5790d34
+ ● 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 <img align="center"  src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-3629369-3032362.png?f=webp&w=256
 " alt="Flutter" height="40" width="40" /> <br>
  <br>• Python <img align="center"  src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="python" height="40" width="40" /> <br>
  <br>• 𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓 <img align="center"  src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="python" height="40" width="40" /> <br>
