@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are availabl at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
+- 👨‍💻 All of my projects are available at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
 
 - 📝 I regularly write articles in Medium 🖋 [https://medium.com/@arjunkurup](https://medium.com/@arjunkurup) 
   <br> and Post it on Linkdin LinkedIn [https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/](https://www.linkedin.com/in/arjun-kurup/recent-activity/shares/)
