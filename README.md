@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjunkurup_" target="blank"><img src="https://img.shields.io/twitter/follow/arjunkurup_?logo=twitter&style=for-the-badge" alt="arjunkurup_" /></a> </p>
 
-- 🌱 I’m currently learni **Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://bento.me/arjunkurup](https://bento.me/arjunkurup)
 
