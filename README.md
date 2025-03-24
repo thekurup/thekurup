@@ -1,11 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/thekurup/thekurup/main/github-header.gif)](https://arjunkurup.com)
 <h1 align="center">Hi 👋, I'm Arjun Kurup</h1>
 <h3 align="center">Flutter Engineer | Technical Architect | Continuous Learner</h3>
-<p class="big">
-<br>
-</p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
+
+
 
 <p align="center">
   <a href="https://twitter.com/arjunkurup_" target="blank">
@@ -18,6 +16,9 @@
     <img src="https://img.shields.io/badge/Portfolio-See_My_Journey-FF4088?style=flat&logo=react" alt="Portfolio"/>
   </a>
 </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
+
+---
 
 ---
 
