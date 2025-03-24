@@ -34,6 +34,16 @@
   <img src="https://img.shields.io/badge/Testing-87%25_Coverage-brightgreen" />
 </p>
 
+### 💡 Hiring Manager Solutions
+**I specialize in:**  
+
+| Problem | My Solution | Proof |  
+|---------|-------------|-------|  
+| **"Production crashes cost us $10k/month"** | TDD + Crashlytics integration | [Test Report](link) |  
+| **"2-week release cycles"** | CI/CD pipeline implementation | [Workflow File](link) |  
+| **"Unmaintainable codebase"** | Clean Architecture migration | [Case Study](link) |  
+| **"Junior team blockers"** | Modular code examples + docs | [Guide](link) | 
+
 ---
 
 ### 🏗️ Project Impact Showcase
@@ -44,6 +54,11 @@
 | **[Flutter DevOps Starter](link)** | • Automated testing workflow<br>• Multi-environment support | • 40% faster deployments<br>• 50+ devs adopted |
 
 ---
+### 📊 Engineering Velocity
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thekurup&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Contribution Stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekurup&theme=dark&hide_border=true" alt="Commit Streak"/>
+</p>
 
 ### 🔍 Technical Depth Preview
 ```dart
