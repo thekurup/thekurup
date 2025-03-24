@@ -16,27 +16,16 @@
     <img src="https://img.shields.io/badge/Portfolio-See_My_Journey-FF4088?style=flat&logo=react" alt="Portfolio"/>
   </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
----
 
 ---
 
 ### 🚀 Value Proposition for Tech Teams
-<table>
-  <tr>
-    <td width="60%">
-      **I'm actively mastering:**  
-      ✅ **Production Reliability** → 85% test coverage in personal projects via TDD  
-      ✅ **Modern Architecture** → Implementing Clean Architecture + Riverpod  
-      ✅ **CI/CD Automation** → GitHub Actions workflows for Flutter  
-      ✅ **Knowledge Sharing** → 15+ technical articles with proven adoption  
-    </td>
-    <td width="40%">
-      <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
-    </td>
-  </tr>
-</table>
+**I'm actively mastering:**  
+✅ **Production Reliability** → 85% test coverage in personal projects via TDD  
+✅ **Modern Architecture** → Implementing Clean Architecture + Riverpod  
+✅ **CI/CD Automation** → GitHub Actions workflows for Flutter  
+✅ **Knowledge Sharing** → 15+ technical articles with proven adoption
 
 
 ---
