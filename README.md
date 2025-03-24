@@ -17,6 +17,8 @@
   </a>
 </p>
 
+---
+
 ### 🚀 Value Proposition for Tech Teams
 **I'm actively mastering:**  
 ✅ **Production Reliability** → 85% test coverage in personal projects via TDD  
