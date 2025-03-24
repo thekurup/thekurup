@@ -17,16 +17,12 @@
   </a>
 </p>
 
-
----
-
 ### 🚀 Value Proposition for Tech Teams
 **I'm actively mastering:**  
 ✅ **Production Reliability** → 85% test coverage in personal projects via TDD  
 ✅ **Modern Architecture** → Implementing Clean Architecture + Riverpod  
 ✅ **CI/CD Automation** → GitHub Actions workflows for Flutter  
-✅ **Knowledge Sharing** → 15+ technical articles with proven adoption
-
+✅ **Knowledge Sharing** → 15+ technical articles with proven adoption  
 
 ---
 
