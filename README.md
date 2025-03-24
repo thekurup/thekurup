@@ -62,18 +62,17 @@
 
 ### 🔍 Technical Depth Preview
 ```dart
-// Clean Architecture Implementation (Current Exploration)
-@riverpod
+// Clean Architecture Implementation
+@Riverpod(keepAlive: true)
 class AuthController extends _$AuthController {
   @override
-  Future<User> build() async {
-    return ref.watch(authRepositoryProvider).currentUser;
+  FutureOr<User> build() async {
+    return ref.watch(authRepositoryProvider).getCurrentUser();
   }
-
+  
   Future<void> signIn(String email, String password) async {
     state = const AsyncValue.loading();
-    state = await AsyncValue.guard(
-      () => ref.read(authRepositoryProvider).signIn(email, password),
-    );
+    state = await AsyncValue.guard(() => 
+      ref.read(authRepositoryProvider).signIn(email, password));
   }
 }
