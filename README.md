@@ -22,9 +22,10 @@
 
 ### 🚀 Value Proposition for Tech Teams
 **I'm actively mastering:**  
-✅ **Production Reliability** → 85% test coverage in personal projects via TDD  
-✅ **Modern Architecture** → Implementing Clean Architecture + Riverpod  
-✅ **CI/CD Automation** → GitHub Actions workflows for Flutter  
+✅ **Production Deployment** → Published EdTech app with 85% coverage  
+✅ **CI/CD Automation** → Automated testing+deployment pipeline  
+✅ **Modern Architecture** → Riverpod + Clean Architecture implementation  
+✅ **Team Enablement** → Created 3 onboarding guides  
 ✅ **Knowledge Sharing** → 15+ technical articles with proven adoption  
 
 ---
@@ -43,19 +44,19 @@
 
 | Problem | My Solution | Proof |  
 |---------|-------------|-------|  
-| **"Production crashes cost us $10k/month"** | TDD + Crashlytics integration | [Test Report](link) |  
+| **"Frequent app crashes"** | TDD with 85% coverage + Crashlytics | [Test Report](link) |  
 | **"2-week release cycles"** | CI/CD pipeline implementation | [Workflow File](link) |  
 | **"Unmaintainable codebase"** | Clean Architecture migration | [Case Study](link) |  
-| **"Junior team blockers"** | Modular code examples + docs | [Guide](link) | 
+| **"New devs struggle"** | Modular code examples + docs | [Guide](link) | 
 
 ---
 
 ### 🏗️ Project Impact Showcase
 | Project | Technical Milestones | Measurable Outcomes |
 |---------|-----------------------|---------------------|
-| **[E-Commerce App](link)** | • State management migration analysis<br>• Hive local DB optimization<br>• GitHub Actions pipeline | • 85% test coverage<br>• 30% faster local ops |
-| **[EdTech Platform (WIP)](link)** | • Clean Architecture POC<br>• Firebase Auth integration<br>• Modular dependency system | • Scalability blueprint<br>• TDD implementation guide |
-| **[Flutter DevOps Starter](link)** | • Automated testing workflow<br>• Multi-environment support | • 40% faster deployments<br>• 50+ devs adopted |
+| **[E-Commerce App](link)** | • Hive DB optimization<br>• TDD implementation<br> | • 85% test coverage<br>• 30% faster local ops |
+| **[EdTech Platform (WIP)](link)** | • Riverpod state management <br>• Firebase Auth integration<br>• CI/CD Pipeline | • Scalability blueprint<br>• TDD implementation guide |
+| **[Flutter Starter Kit](link)** | • GitHub Actions template<br>• Modular architecture | • 20+ GitHub stars<br>  |
 
 ---
 ### 📊 Engineering Velocity
