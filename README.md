@@ -61,7 +61,7 @@
 ---
 ### 📊 Engineering Velocity
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekurup&theme=dark&hide_border=true" alt="Commit Streak">
+  
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thekurup&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Contribution Stats"/>
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekurup&theme=dark&hide_border=true" alt="Commit Streak">
 </p>
