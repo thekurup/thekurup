@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Value Proposition for Tech Teams
-**I'm actively mastering:**  
+**I Have done:**  
 ✅ **Production Deployment** → Published EdTech app with 85% coverage  
 ✅ **CI/CD Automation** → Automated testing+deployment pipeline  
 ✅ **Modern Architecture** → Riverpod + Clean Architecture implementation  
