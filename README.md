@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Arjuun Kurup</h1>
+<h1 align="center">Hi 👋, I'm Arjun Kurup</h1>
 <h3 align="center">Flutter Engineer | Technical Architect | Continuous Learner</h3>
 
 
